@@ -1,0 +1,38 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "La roulette qui va gagner pour aller à devoxx",
+  "keywords": [
+    "roulette",
+    "devoxx"
+  ],
+  "maintainers": [
+    {
+    "name": "Jonathan Perret",
+    "email": "j@jonathanperret.net",
+    "web": "http://github.com/jonathanperret"
+  }
+  ],
+  "contributors": [
+    {
+    "name": "Emmanuel Gaillot",
+    "email": "emmanuel@ut7.fr",
+    "web": "http://emmanuelgaillot.blogspot.com"
+  },
+  {
+    "name": "Romain Gauthier",
+    "email": "romain.gauthier@monkeypatch.me",
+    "web": "http://monkeypatch.me"
+  }
+  ],
+  "repositories": [
+    {
+    "type": "git",
+    "url": "http://github.com/jonathanperret/roulette.git"
+  }
+  ],
+  "dependencies": {
+    "coffee-script": "1.2",
+    "jasmine-node": "1.0"
+  }
+}
